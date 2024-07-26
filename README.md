@@ -21,7 +21,7 @@ I'm a machine learning and data science professional with five years of experien
 feel free to get in touch if you'd like to collaborate on interesting projects or just for the heck of it!
 
 - [LinkedIn](https://www.linkedin.com/in/adithya27)
-- [Email](adithyasubramaniam@berkeley.edu)
+- [Email](mailto:adithyasubramaniam@berkeley.edu)
 
 <!--
 **adits27/adits27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
