@@ -9,12 +9,6 @@ I'm a machine learning and data science professional with five years of experien
 - 🔭 **Current Focus**: Causal Inference, Natural Language Processing
 - ⚡ **Hobbies**: Reading, Hiking, and Photography
 
-### My Skills
-
-- **Languages**: Python, R, SQL
-- **Frameworks**: Apache Spark, Kubeflow, MLFlow, Scikit-Learn, Keras, PyTorch, Ray, Langchain, Pandas
-- **Cloud Platforms**: AWS, Azure
-- **Tools**: Databricks, Docker, Kubernetes, Git
 
 ### Connect with Me
 
