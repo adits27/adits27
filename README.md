@@ -7,7 +7,7 @@ I'm a machine learning and data science professional with five years of experien
 - 🎓 **Education**: Information Science @ UC Berkeley
 - 💼 **Experience**: 5+ years in Machine Learning and Data Science @ Deloitte, Mindtree
 - 🔭 **Current Focus**: Causal Inference, Natural Language Processing
-- ⚡ **Hobbies**: Reading, Hiking, and Photography
+- ⚡ **Hobbies**: Football, Hiking, and Photography
 
 
 ### Connect with Me
